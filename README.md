@@ -1,4 +1,4 @@
-[![cschuhknecht header](https://raw.githubusercontent.com/cschuhknecht/cschuhknecht/main/header-banner.png)](https://github.com/cschuhknecht)
+[![cschuhknecht header](https://raw.githubusercontent.com/cschuhknecht/cschuhknecht/main/header-banner-v2.png)](https://github.com/cschuhknecht)
 <h1 align='center'> Hi there! :wave:</h1>
 <p align='center'>
 I'm Christian.
