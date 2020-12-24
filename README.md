@@ -1,8 +1,16 @@
-### Hi there 👋
+[![cschuhknecht header](https://raw.githubusercontent.com/cschuhknecht/cschuhknecht/main/header-banner.png)](https://github.com/cschuhknecht)
+<h1 align='center'> Hi there! :wave:</h1>
+<p align='center'>
+I'm Christian.
+</p>
+<p align='center'>Follow me everywhere: <b>@cschuhknecht</b></a></p>
+
+<h1 align='center'><i>Enjoy coding! :computer:</i></h1>
+
 
 <!--
 **cschuhknecht/cschuhknecht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
